@@ -1,0 +1,12 @@
+:root{
+    --main-back-color: #434A42;
+}
+
+body{
+    background-color: var(--main-back-color);
+}
+
+.carousel-item img{
+    max-width: 800px;
+    max-height: 600px;
+}
